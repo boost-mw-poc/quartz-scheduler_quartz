@@ -81,7 +81,7 @@ import java.util.TreeSet;
  * <tr>
  * <td><code>Month</code></td>
  * <td>&nbsp;</td>
- * <td><code>0-11 or JAN-DEC</code></td>
+ * <td><code>1-12 or JAN-DEC</code></td>
  * <td>&nbsp;</td>
  * <td><code>, - * /</code></td>
  * </tr>
